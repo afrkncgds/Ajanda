@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajanda", "Ajanda\Ajanda.csproj", "{D35A4986-4A92-44EC-9D16-9C6E73B37DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D35A4986-4A92-44EC-9D16-9C6E73B37DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35A4986-4A92-44EC-9D16-9C6E73B37DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35A4986-4A92-44EC-9D16-9C6E73B37DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35A4986-4A92-44EC-9D16-9C6E73B37DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61043E6D-8F9C-468D-BAC1-C36BEE81EDC4}
+	EndGlobalSection
+EndGlobal
